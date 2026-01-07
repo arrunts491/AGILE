@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 print("HAPPPPPPPY")
 print("HELLO")
+=======
+print("HAPPY")
+print("HELLLLLLLO")
+>>>>>>> conflict-branch
 
 def login(username, password):
     if username == "admin" and password == "1234":
